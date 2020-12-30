@@ -68,8 +68,8 @@ main {
 
 .main-container {
   
-  color: whitesmoke;
-  background-color: teal;
+  color: black;
+  background-color: gray;
   margin: auto;
 }
 
@@ -80,6 +80,7 @@ main {
 
 
 .div-main li {
+  background-color: brown;
   display: flex;
   /* text-align: center; */
   border: black solid;
