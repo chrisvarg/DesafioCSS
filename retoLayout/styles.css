@@ -26,14 +26,14 @@ header {
   margin: auto;
 }
 
-.header-container {
-  background-color: black;
+
+.container {
   margin: auto;
 }
 
 /* NAVIGATION */
-
 .nav-main {
+  background-color: black;
   font-size: 17px;
   display: flex;
   justify-content:space-between;
@@ -92,3 +92,36 @@ main {
 .div-main img {
   width: 50px;
 }
+
+
+/* FOOTER */
+
+footer {
+  
+  margin: auto;
+}
+
+.footer-container {
+  background-color: black;
+  padding: 10px;
+}
+
+.footer-main {
+  text-align: center;
+  
+}
+
+.footer-main ul li{
+  display: inline;
+}
+
+.footer-main img {
+  width: 20px;
+}
+
+.footer-main p {
+  font-family: 'Roboto Slab', serif;
+  color: whitesmoke;
+  font-size: 12px;
+}
+
