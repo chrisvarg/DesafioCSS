@@ -1,4 +1,4 @@
-/supermarket/*.jpg
-/supermarket/*.jfif
+*.jpg
+*.jfif
 *.png
 *.jpeg
